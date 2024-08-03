@@ -13,7 +13,7 @@ This repository contains the code and data associated with the research paper ti
 
 ### Customization
 
-The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit their specific analysis needs. 
+The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit specific analysis needs. 
 
 ## Installation
 
