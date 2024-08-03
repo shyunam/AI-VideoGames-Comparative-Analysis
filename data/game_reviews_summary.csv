@@ -1,0 +1,17 @@
+game_title,game_rating,num_reviews,percentage_reviews
+l4d2,positive,27142,96.43631195594244
+l4d2,negative,1003,3.5636880440575593
+fear,positive,7223,93.0199613650998
+fear,negative,542,6.980038634900193
+alien_isolation,positive,24332,91.75654272569575
+alien_isolation,negative,2186,8.243457274304246
+hitman,positive,11902,79.92747297025049
+hitman,negative,2989,20.072527029749512
+shadow_of_mordor,positive,33932,90.82198013971788
+shadow_of_mordor,negative,3429,9.178019860282111
+halo_infinite,positive,21070,53.42427546337382
+halo_infinite,negative,18369,46.57572453662618
+the_last_of_us,positive,15817,69.49472759226714
+the_last_of_us,negative,6943,30.505272407732864
+
+Total Reviews:,176879
