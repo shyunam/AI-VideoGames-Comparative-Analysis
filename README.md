@@ -1,4 +1,4 @@
-# AI-VideoGames-Sentiment-Analysis
+# AI-VideoGames-Comparative-Analysis
 
 ## Overview
 
