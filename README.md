@@ -15,10 +15,6 @@ This repository contains the code and data associated with the research paper ti
 
 The provided scripts can be easily adapted to analyze different video games available on Metacritic or Steam, and adjust parameters to fit specific analysis needs. 
 
-## Installation
-
-Instructions on how to set up and install the project.
-
 ## Running the Scripts
 
 ### 1. Scraping Reviews from Steam and Metacritic
